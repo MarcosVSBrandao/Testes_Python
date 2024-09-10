@@ -1,0 +1,17 @@
+print('=====  Criar autopresentação =====')
+print('- Olá candidato')
+print('Vamos te fazer algumas perguntas, ok?')
+print('Então vamos lá...')
+print('')
+nome = input('Digite seu nome:')
+idade = input('Digite sua idade:')
+estad_civil = input('Qual o seu estado civil:')
+formacao = input('Qual curso esta cursando:')
+area = input('Em qual area seria: ')
+difencial = input('Diga uma qualidade sobre voce: ')
+diferencial2 = input('Diga mais uma qualidade:')
+
+
+print('Olá, meu nome é',nome,', tenho',idade,'anos e sou',estad_civil,'.')
+print('Atualmente, estou cursando',formacao,', buscando sempre me aperfeiçoar na área de',area,'.')
+print('Sou',difencial,',',diferencial2,'e sempre busco novas oportunidades para aprender e contribuir de forma eficiente nos projetos que participo.')
